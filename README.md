@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafael-f-dev
 - 👀 I’m interested in learning new tools and improving my coding skills!
 - 🌱 I’m currently looking for work.
-- 💼 Link to my portfolio: https://rafaelfreire.surge.sh/
+- 💼 Link to my portfolio: https://rafael-f-dev.surge.sh/
 - 📧 Reach me on my Email: rafael.freire.developer@gmail.com
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/rafael-freire-developer/
 
